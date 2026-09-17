@@ -1,0 +1,1 @@
+export const CandidateList = () => <div className="p-4 border border-slate-800 rounded-xl mt-4">Candidates Here</div>;

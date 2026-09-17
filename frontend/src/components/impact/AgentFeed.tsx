@@ -1,0 +1,1 @@
+export const AgentFeed = () => <div className="p-4 border border-slate-800 rounded-xl">Agent Ticker Here</div>;

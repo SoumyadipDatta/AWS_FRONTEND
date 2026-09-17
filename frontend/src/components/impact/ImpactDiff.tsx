@@ -1,0 +1,1 @@
+export const ImpactDiff = () => <div className="p-4 border border-slate-800 rounded-xl mt-4">Before/After Diff Here</div>;

@@ -1,0 +1,1 @@
+export const MainLayout = ({children}: {children: React.ReactNode}) => <div className="min-h-screen bg-[#0d1117] text-white p-6">{children}</div>;
